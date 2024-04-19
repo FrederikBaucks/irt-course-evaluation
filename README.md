@@ -9,7 +9,7 @@ If you use this implementation in academic work to detect differential course fu
 
 ```bibtex
 @inproceedings{BaucksSchmucker2024DCF,
-    author       = {Baucks*, Frederik and Schmucker*, Robin and Borchers, Conrad and Pardos, Zachary and Wiskott, Laurenz},
+    author       = {Baucks*, Frederik and Schmucker*, Robin and Borchers, Conrad and Pardos, Zachary A. and Wiskott, Laurenz},
     title        = {Gaining Insights into Group-Level Course Difficulty via Differential Course Functioning},
     booktitle    = {{Proceedings of the 11th ACM Conference on Learning @ Scale (L@S ’24)}},
     date         = {2024-07-18},
